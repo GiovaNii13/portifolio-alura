@@ -33,7 +33,7 @@ body{
 }
 
 .cabecalho-link{
-    font-family: var(--fonte-secundaria)
+    font-family: var(--fonte-secundaria);
     font-weight: 600px;
     font-size: 24px;
     color: var(--cor-terciaria);
